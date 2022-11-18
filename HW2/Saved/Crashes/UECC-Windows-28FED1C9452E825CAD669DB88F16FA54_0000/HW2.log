@@ -1,0 +1,713 @@
+Not using cached read wrapper
+Stats thread started at 0.234004
+ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-28FED1C9452E825CAD669DB88F16FA54
+         Session CrashGUID >====================================================
+Loading VulkanPC ini files took 0.03 seconds
+Loading HoloLens ini files took 0.03 seconds
+Loading Mac ini files took 0.03 seconds
+Loading IOS ini files took 0.03 seconds
+Loading Android ini files took 0.03 seconds
+Loading Unix ini files took 0.04 seconds
+Loading Windows ini files took 0.04 seconds
+Loading TVOS ini files took 0.04 seconds
+Loading Linux ini files took 0.05 seconds
+Loading LinuxArm64 ini files took 0.05 seconds
+Mounting Engine plugin Bridge
+Mounting Engine plugin FastBuildController
+Mounting Engine plugin MeshPainting
+Mounting Engine plugin XGEController
+Mounting Engine plugin AnimationModifierLibrary
+Mounting Engine plugin BlendSpaceMotionAnalysis
+Mounting Engine plugin ControlRig
+Mounting Engine plugin ControlRigSpline
+Mounting Engine plugin IKRig
+Mounting Engine plugin Paper2D
+Mounting Engine plugin DatasmithContent
+Mounting Engine plugin CameraShakePreviewer
+Mounting Engine plugin OodleNetwork
+Mounting Engine plugin VariantManagerContent
+Mounting Engine plugin GameplayCameras
+Mounting Engine plugin AutomationUtils
+Mounting Engine plugin BackChannel
+Mounting Engine plugin ChaosCloth
+Mounting Engine plugin ChaosClothEditor
+Mounting Engine plugin ChaosEditor
+Mounting Engine plugin ChaosNiagara
+Mounting Engine plugin CharacterAI
+Mounting Engine plugin ChaosSolverPlugin
+Mounting Engine plugin FullBodyIK
+Mounting Engine plugin Niagara
+Mounting Engine plugin GeometryCollectionPlugin
+Mounting Engine plugin AlembicImporter
+Mounting Engine plugin MeshModelingToolsetExp
+Mounting Engine plugin OpenImageDenoise
+Mounting Engine plugin PlanarCut
+Mounting Engine plugin PlatformCrypto
+Mounting Engine plugin ProxyLODPlugin
+Mounting Engine plugin PythonScriptPlugin
+Mounting Engine plugin SkeletalReduction
+Mounting Engine plugin AnimationSharing
+Mounting Engine plugin CLionSourceCodeAccess
+Mounting Engine plugin CodeLiteSourceCodeAccess
+Mounting Engine plugin EnvironmentQueryEditor
+Mounting Engine plugin GitSourceControl
+Mounting Engine plugin KDevelopSourceCodeAccess
+Mounting Engine plugin NullSourceCodeAccess
+Mounting Engine plugin PerforceSourceControl
+Mounting Engine plugin PixWinPlugin
+Mounting Engine plugin PropertyAccessNode
+Mounting Engine plugin PlasticSourceControl
+Mounting Engine plugin PluginUtils
+Mounting Engine plugin RiderSourceCodeAccess
+Mounting Engine plugin SubversionSourceControl
+Mounting Engine plugin TraceDataFilters
+Mounting Engine plugin UObjectPlugin
+Mounting Engine plugin TextureFormatOodle
+Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+Mounting Engine plugin VisualStudioSourceCodeAccess
+Mounting Engine plugin AISupport
+Mounting Engine plugin AndroidMedia
+Mounting Engine plugin AvfMedia
+Mounting Engine plugin MediaCompositing
+Mounting Engine plugin ImgMedia
+Mounting Engine plugin XCodeSourceCodeAccess
+Mounting Engine plugin MediaPlayerEditor
+Mounting Engine plugin WmfMedia
+Mounting Engine plugin WebMMedia
+Mounting Engine plugin AssetManagerEditor
+Mounting Engine plugin CryptoKeys
+Mounting Engine plugin CurveEditorTools
+Mounting Engine plugin ActorSequence
+Mounting Engine plugin DataValidation
+Mounting Engine plugin LevelSequenceEditor
+Mounting Engine plugin MatineeToLevelSequence
+Mounting Engine plugin EditorDebugTools
+Mounting Engine plugin EditorScriptingUtilities
+Mounting Engine plugin FacialAnimation
+Mounting Engine plugin MacGraphicsSwitching
+Mounting Engine plugin GeometryMode
+Mounting Engine plugin GameplayTagsEditor
+Mounting Engine plugin TcpMessaging
+Mounting Engine plugin UdpMessaging
+Mounting Engine plugin MaterialAnalyzer
+Mounting Engine plugin MobileLauncherProfileWizard
+Mounting Engine plugin PluginBrowser
+Mounting Engine plugin SequencerAnimTools
+Mounting Engine plugin SpeedTreeImporter
+Mounting Engine plugin SequencerScripting
+Mounting Engine plugin WorldPartitionHLODUtilities
+Mounting Engine plugin TemplateSequence
+Mounting Engine plugin LauncherChunkInstaller
+Mounting Engine plugin ActorLayerUtilities
+Mounting Engine plugin OnlineBase
+Mounting Engine plugin AndroidDeviceProfileSelector
+Mounting Engine plugin OnlineSubsystem
+Mounting Engine plugin OnlineSubsystemNull
+Mounting Engine plugin OnlineSubsystemUtils
+Mounting Engine plugin AndroidFileServer
+Mounting Engine plugin AndroidMoviePlayer
+Mounting Engine plugin AndroidPermission
+Mounting Engine plugin AppleImageUtils
+Mounting Engine plugin AppleMoviePlayer
+Mounting Engine plugin ArchVisCharacter
+Mounting Engine plugin AssetTags
+Mounting Engine plugin AudioCapture
+Mounting Engine plugin AudioSynesthesia
+Mounting Engine plugin CableComponent
+Mounting Engine plugin ChunkDownloader
+Mounting Engine plugin CustomMeshComponent
+Mounting Engine plugin ExampleDeviceProfileSelector
+Mounting Engine plugin GeometryProcessing
+Mounting Engine plugin GeometryCache
+Mounting Engine plugin GoogleCloudMessaging
+Mounting Engine plugin GooglePAD
+Mounting Engine plugin HairStrands
+Mounting Engine plugin IOSDeviceProfileSelector
+Mounting Engine plugin LinuxDeviceProfileSelector
+Mounting Engine plugin LocationServicesBPLibrary
+Mounting Engine plugin MeshModelingToolset
+Mounting Engine plugin MobilePatchingUtils
+Mounting Engine plugin OpenXR
+Mounting Engine plugin ProceduralMeshComponent
+Mounting Engine plugin PropertyAccessEditor
+Mounting Engine plugin ResonanceAudio
+Mounting Engine plugin RuntimePhysXCooking
+Mounting Engine plugin SignificanceManager
+Mounting Engine plugin SoundFields
+Mounting Engine plugin Synthesis
+Mounting Engine plugin WebMMoviePlayer
+Mounting Engine plugin WindowsMoviePlayer
+Mounting Engine plugin WindowsDeviceProfileSelector
+Mounting Engine plugin InterchangeEditor
+Mounting Engine plugin Interchange
+Mounting Engine plugin ContentBrowserAssetDataSource
+Mounting Engine plugin ContentBrowserClassDataSource
+Mounting Engine plugin ContentBrowserFileDataSource
+Mounting Engine plugin OnlineSubsystemGooglePlay
+Mounting Engine plugin OnlineServices
+Mounting Engine plugin OnlineSubsystemIOS
+Mounting Engine plugin OculusVR
+FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+FPackageName: Mount point added: '../../Plugins/Runtime/OpenXR/Content/' mounted to '/OpenXR/'
+FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+FPackageName: Mount point added: '../../Plugins/Runtime/Oculus/OculusVR/Content/' mounted to '/OculusVR/'
+Source control is disabled
+Source control is disabled
+PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+Using libcurl 7.55.1-DEV
+ - built for x86_64-pc-win32
+ - supports SSL with OpenSSL/1.1.1
+ - supports HTTP deflate (compression) using libz 1.2.8
+ - other features:
+     CURL_VERSION_SSL
+     CURL_VERSION_LIBZ
+     CURL_VERSION_IPV6
+     CURL_VERSION_ASYNCHDNS
+     CURL_VERSION_LARGEFILE
+     CURL_VERSION_IDN
+ CurlRequestOptions (configurable via config and command line):
+ - bVerifyPeer = true  - Libcurl will verify peer certificate
+ - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+ - bDontReuseConnections = false  - Libcurl will reuse connections
+ - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+ - LocalHostAddr = Default
+ - BufferSize = 65536
+WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+OSS: Created online subsystem instance for: NULL
+OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+Failed loading OVRPlugin 1.65.0
+Build: ++UE5+Release-5.0-CL-20979098
+Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+Net CL: 19505902
+OS: Windows 10 (21H2) [10.0.19044.2251] (), CPU: 11th Gen Intel(R) Core(TM) i7-11700KF @ 3.60GHz, GPU: NVIDIA GeForce RTX 3080
+Compiled (64-bit): Jul  7 2022 02:16:06
+Compiled with Visual C++: 19.29.30138.00
+Build Configuration: Development
+Branch Name: ++UE5+Release-5.0
+Command Line:  -EpicPortal -epiclocale=en -epicsandboxid=ue
+Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+Allocator: Mimalloc
+Installed Engine Build: 1
+Number of dev versions registered: 34
+  Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+  Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+  Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+  Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+  Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+  Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+  Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+  Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+  Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+  Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+  Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+  Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+  Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+  Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+  Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+  Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+  Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+  Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+  Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+  FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+  FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+  Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+  Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+  Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+  Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+  Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+  Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+  Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+  UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+  UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+  UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+  UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+  Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+  UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+Object subsystem initialized
+CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+CVar [[VisualizeCalibrationColorMaterialPath:None]] deferred - dummy variable created
+CVar [[VisualizeCalibrationGrayscaleMaterialPath:None]] deferred - dummy variable created
+CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+CVar [[r.Mobile.AllowSoftwareOcclusion:0]] deferred - dummy variable created
+CVar [[r.VT.EnableCompressZlib:1]] deferred - dummy variable created
+CVar [[r.VT.EnableCompressCrunch:0]] deferred - dummy variable created
+CVar [[r.DistanceFieldBuild.EightBit:0]] deferred - dummy variable created
+CVar [[r.GenerateLandscapeGIData:0]] deferred - dummy variable created
+CVar [[r.DistanceFieldBuild.Compress:0]] deferred - dummy variable created
+CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]] deferred - dummy variable created
+CVar [[TranslucentSortAxis:(X=0.000000,Y=-1.000000,Z=0.000000)]] deferred - dummy variable created
+CVar [[r.EyeAdaptation.EditorOnly:0]] deferred - dummy variable created
+CVar [[r.SSGI.Enable:0]] deferred - dummy variable created
+CVar [[bDefaultParticleCutouts:0]] deferred - dummy variable created
+CVar [[r.SupportAtmosphericFog:1]] deferred - dummy variable created
+CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]] deferred - dummy variable created
+CVar [[r.LightPropagationVolume:0]] deferred - dummy variable created
+CVar [[bStreamSkeletalMeshLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+CVar [[bDiscardSkeletalMeshOptionalLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+CVar [[VisualizeCalibrationCustomMaterialPath:None]] deferred - dummy variable created
+Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+Aftermath initialized
+Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+Optional extension XR_VARJO_quad_views is not available
+Optional extension XR_KHR_binding_modification is not available
+Optional extension XR_EXT_dpad_binding is not available
+Initialized OpenXR on Oculus runtime version 1.78.0
+Failed to get an OpenXR system, result is XR_ERROR_FORM_FACTOR_UNAVAILABLE. Please check that your runtime supports VR headsets.
+Found D3D12 adapter 0: NVIDIA GeForce RTX 3080 (Max supported Feature Level 12_1, shader model 6.6)
+Adapter has 10078MB of dedicated video memory, 0MB of dedicated system memory, and 16221MB of shared system memory, 1 output[s]
+Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16221MB of shared system memory, 0 output[s]
+Chosen D3D12 Adapter Id = 0
+Selected Device Profile: [WindowsEditor]
+Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+Platform has ~ 32 GB [34019659776 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+Going up to parent DeviceProfile [Windows]
+Going up to parent DeviceProfile []
+Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+Applying CVar settings from Section [ConsoleVariables] File [Engine]
+Applying CVar settings from Section [ConsoleVariables] File [C:/Users/dshive/Desktop/RyterskiM_ShivelyD/HW2/Saved/Config/WindowsEditor/Editor.ini]
+Computer: SABINE
+User: dshive
+CPU Page size=4096, Cores=8
+High frequency timer resolution =10.000000 MHz
+Memory total: Physical=31.7GB (32GB approx)
+Platform Memory Stats for WindowsEditor
+Process Physical Memory: 292.00 MB used, 300.43 MB peak
+Process Virtual Memory: 256.19 MB used, 256.19 MB peak
+Physical Memory: 11589.73 MB used,  20853.95 MB free, 32443.68 MB total
+Virtual Memory: 15702.19 MB used,  21605.48 MB free, 37307.68 MB total
+Metadata set : extradevelopmentmemorymb="0"
+WindowsPlatformFeatures enabled
+Physics initialised using underlying interface: Chaos
+Using OS detected language (en-US).
+Using OS detected locale (en-US).
+No specific localization for 'en-US' exists, so 'en' will be used for the language.
+Setting process to per monitor DPI aware
+Available input methods:
+  - English (United States) - (Keyboard).
+Activated input method: English (United States) - (Keyboard).
+New Slate User Created.  User Index 0, Is Virtual User: 0
+Slate User Registered.  User Index 0, Is Virtual User: 0
+InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[Aftermath] Aftermath crash dumping enabled
+Emitting draw events for PIX profiling.
+[Aftermath] Aftermath enabled and primed
+[Aftermath] Aftermath resource tracking enabled
+ID3D12Device1 is supported.
+ID3D12Device2 is supported.
+ID3D12Device3 is supported.
+ID3D12Device4 is supported.
+ID3D12Device5 is supported.
+ID3D12Device6 is supported.
+ID3D12Device7 is supported.
+D3D12 ray tracing tier 1.0 is supported.
+D3D12 ray tracing tier 1.1 is supported.
+Mesh shader tier 1.0 is supported
+AtomicInt64OnTypedResource is supported
+AtomicInt64OnGroupShared is supported
+AtomicInt64OnDescriptorHeapResource is supported
+Shader Model 6.6 atomic64 is supported
+[GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+    GPU DeviceId: 0x2206 (for the marketing name, search the web for "GPU Device Id")
+Attached monitors:
+    resolution: 2560x1440, work area: (0, 0) -> (2560, 1400), device: '\\.\DISPLAY1' [PRIMARY]
+Found 1 attached monitors.
+EnumDisplayDevices:
+   0. 'NVIDIA GeForce RTX 3080' (P:1 D:1), name: '\\.\DISPLAY1'
+   1. 'NVIDIA GeForce RTX 3080' (P:0 D:0), name: '\\.\DISPLAY2'
+   2. 'NVIDIA GeForce RTX 3080' (P:0 D:0), name: '\\.\DISPLAY3'
+   3. 'NVIDIA GeForce RTX 3080' (P:0 D:0), name: '\\.\DISPLAY4'
+DebugString: FoundDriverCount:4 
+    Adapter Name: NVIDIA GeForce RTX 3080
+  Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+     Driver Date: 7-21-2022
+Texture pool is 5865 MB (70% of 8379 MB)
+Async texture creation enabled
+RHI has support for 64 bit atomics
+GeForceNow SDK initialized: 0
+Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/dshive/Desktop/RyterskiM_ShivelyD/HW2/HW2.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/dshive/Desktop/RyterskiM_ShivelyD/HW2/Intermediate/TurnkeyReport_0.log" -log="C:/Users/dshive/Desktop/RyterskiM_ShivelyD/HW2/Intermediate/TurnkeyLog_0.log" -project="C:/Users/dshive/Desktop/RyterskiM_ShivelyD/HW2/HW2.uproject"  -platform=all'
+Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/dshive/Desktop/RyterskiM_ShivelyD/HW2/HW2.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/dshive/Desktop/RyterskiM_ShivelyD/HW2/Intermediate/TurnkeyReport_0.log" -log="C:/Users/dshive/Desktop/RyterskiM_ShivelyD/HW2/Intermediate/TurnkeyLog_0.log" -project="C:/Users/dshive/Desktop/RyterskiM_ShivelyD/HW2/HW2.uproject"  -platform=all" ]
+ETC2 Texture loading DLL: TextureConverter.dll
+Oodle Texture TFO init; latest sdk version = 2.9.5
+Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+Loaded TargetPlatform 'Android'
+Loaded TargetPlatform 'Android_ASTC'
+Loaded TargetPlatform 'Android_DXT'
+Loaded TargetPlatform 'Android_ETC2'
+Loaded TargetPlatform 'AndroidClient'
+Loaded TargetPlatform 'Android_ASTCClient'
+Loaded TargetPlatform 'Android_DXTClient'
+Loaded TargetPlatform 'Android_ETC2Client'
+Loaded TargetPlatform 'Android_Multi'
+Loaded TargetPlatform 'Android_MultiClient'
+Loaded TargetPlatform 'HoloLens'
+Loaded TargetPlatform 'HoloLensClient'
+Loaded TargetPlatform 'IOS'
+Loaded TargetPlatform 'IOSClient'
+Loaded TargetPlatform 'Linux'
+Loaded TargetPlatform 'LinuxEditor'
+Loaded TargetPlatform 'LinuxServer'
+Loaded TargetPlatform 'LinuxClient'
+Loaded TargetPlatform 'LinuxArm64'
+Loaded TargetPlatform 'LinuxArm64Server'
+Loaded TargetPlatform 'LinuxArm64Client'
+Loaded TargetPlatform 'TVOS'
+Loaded TargetPlatform 'TVOSClient'
+Loaded TargetPlatform 'Windows'
+Loaded TargetPlatform 'WindowsEditor'
+Loaded TargetPlatform 'WindowsServer'
+Loaded TargetPlatform 'WindowsClient'
+Building Assets For WindowsEditor
+Lib vorbis DLL was dynamically loaded.
+Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+Loaded format module AudioFormatADPCM
+  ADPCM
+  PCM
+Loaded format module AudioFormatBink
+  BINKA
+Loaded format module AudioFormatOgg
+  OGG
+Loaded format module AudioFormatOpus
+  OPUS
+Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+Loaded format module MetalShaderFormat
+  SF_METAL
+  SF_METAL_MRT
+  SF_METAL_TVOS
+  SF_METAL_MRT_TVOS
+  SF_METAL_SM5
+  SF_METAL_MACES3_1
+  SF_METAL_MRT_MAC
+Loaded format module ShaderFormatD3D
+  PCD3D_SM6
+  PCD3D_SM5
+  PCD3D_ES31
+  D3D_ES3_1_HOLOLENS
+Loaded format module ShaderFormatOpenGL
+  GLSL_150_ES31
+  GLSL_ES3_1_ANDROID
+Loaded format module ShaderFormatVectorVM
+  VVM_1_0
+Loaded format module VulkanShaderFormat
+  SF_VULKAN_SM5
+  SF_VULKAN_ES31_ANDROID
+  SF_VULKAN_ES31
+  SF_VULKAN_SM5_ANDROID
+Ray tracing is disabled. Reason: r.RayTracing=0.
+Compiling shader autogen file: ../../../../../../Users/dshive/Desktop/RyterskiM_ShivelyD/HW2/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+Autogen file is unchanged, skipping write.
+Compiling shader autogen file: ../../../../../../Users/dshive/Desktop/RyterskiM_ShivelyD/HW2/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+Autogen file is unchanged, skipping write.
+FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/dshive/Desktop/RyterskiM_ShivelyD/HW2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+Unable to find inner node Pak for hierarchy Hierarchy.
+FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/dshive/Desktop/RyterskiM_ShivelyD/HW2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node CompressedPak for hierarchy Hierarchy.
+../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+Speed tests for C:/Users/dshive/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+Performance to C:/Users/dshive/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=271.59MBs, RandomWriteSpeed=244.87MBs. Assigned SpeedClass 'Local'
+Using Local data cache path C:/Users/dshive/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+Shared data cache path not found in *engine.ini, will not use an Shared cache.
+Unable to find inner node Shared for hierarchy Hierarchy.
+VirtualizationSystem name found in ini file: None
+FNullVirtualizationSystem mounted, virtualization will be disabled
+Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../Users/dshive/Desktop/RyterskiM_ShivelyD/HW2/Intermediate/Shaders/WorkingDirectory/2276/).
+Cleaned the shader compiler working directory 'C:/Users/dshive/AppData/Local/Temp/UnrealShaderWorkingDir/1EA38E214CC079A40CBB1AA216A472FE/'.
+Cannot use XGE Controller as Incredibuild is not installed on this machine.
+Using Local Shader Compiler with 8 workers.
+Completed SDK detection: ExitCode = 0
+Using FreeType 2.10.0
+SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+Failed to get an OpenXR system, result is XR_ERROR_FORM_FACTOR_UNAVAILABLE. Please check that your runtime supports VR headsets.
+FAssetRegistry took 0.0122 seconds to start up
+EditorDomain is Disabled
+UsePackageTrailer: 'false'
+Texture Encode Speed: FinalIfAvailable (editor).
+Selected Device Profile: [WindowsEditor]
+Active device profile: [00000452C0917000][00000452B471A000 50] WindowsEditor
+Profiles: [00000452C0916AC0][00000452B4715000 50] Windows, [00000452C0917000][00000452B471A000 50] WindowsEditor, [00000452C0916900][00000452B4295000 50] WindowsServer, [00000452C0913100][00000452B46E7800 50] WindowsClient, [00000452C0912140][00000452B4710000 50] IOS, [00000452C09171C0][00000452A720A000 50] iPadAir2, [00000452C0912F40][00000452C0BB2800 50] IPadPro, [00000452C0913480][00000452C0BB0000 50] iPadAir3, [00000452C09163C0][00000452C0BB7800 50] iPadAir4, [00000452C0913640][00000452C0BBA000 50] iPadMini4, [00000452C0913D40][00000452C0BBC800 50] iPadMini5, [00000452C0915E80][00000452B463C800 50] iPadMini6, [00000452C091A640][00000452C0BE5000 50] iPhone6S, [00000452C091A9C0][00000452C0BE2800 50] iPhone7, [00000452C0918180][00000452C0BE0000 50] iPodTouch7, [00000452C0918C00][00000452C0BEA000 50] iPhone6SPlus, [00000452C0916740][00000452C0BEC800 50] iPhone7Plus, [00000452C09140C0][00000452C0BB5000 50] iPhoneSE, [00000452C09194C0][00000452C0BC0000 50] iPhone8, [00000452C0917A80][00000452C0BC5000 50] iPhone8Plus, [00000452C0916040][00000452C0BC7800 50] iPhoneX, [00000452C09186C0][00000452C0BCA000 50] iPhoneXS, [00000452C0912300][00000452C0BCC800 50] iPhoneXSMax, [00000452C0913B80][00000452C0BE7800 50] iPhoneXR, [00000452C0912BC0][00000452C0B90000 50] iPhone11, [00000452C0917FC0][00000452C0B95000 50] iPhone11Pro, [00000452C091A2C0][00000452C0B97800 50] iPhone11ProMax, [00000452C0914B40][00000452C0B9A000 50] iPhoneSE2, [00000452C0919300][00000452C0B9C800 50] iPhone12Mini, [00000452C0916580][00000452C0BC2800 50] iPhone12, [00000452C0919140][00000452C0C20000 50] iPhone12Pro, [00000452C0917C40][00000452C0C25000 50] iPhone12ProMax, [00000452C0918880][00000452C0C27800 50] iPhone13Mini, [00000452C0915400][00000452C0C2A000 50] iPhone13, [00000452C0918F80][00000452C0C2C800 50] iPhone13Pro, [00000452C09155C0][00000452C0B92800 50] iPhone13ProMax, [00000452C091A100][00000452C0C30000 50] iPadPro105, [00000452C0919840][00000452C0C35000 50] iPadPro129, [00000452C0913800][00000452C0C37800 50] iPadPro97, [00000452C0919D80][00000452C0C3A000 50] iPadPro2_129, [00000452C0915940][00000452C0C3C800 50] iPad5, [00000452C0915B00][00000452C0C22800 50] iPad6, [00000452C0915240][00000452C0C40000 50] iPad7, [00000452C091A480][00000452C0C45000 50] iPad8, [00000452C0912D80][00000452C0C47800 50] iPad9, [00000452C0919F40][00000452C0C4A000 50] iPadPro11, [00000452C09132C0][00000452C0C4C800 50] iPadPro2_11, [00000452C0918500][00000452C0C32800 50] iPadPro3_11, [00000452C0918A40][00000452C0C50000 50] iPadPro3_129, [00000452C09124C0][00000452C0C55000 50] iPadPro4_129, [00000452C0914EC0][00000452C0C57800 50] iPadPro5_129, [00000452C0913F00][00000452C0C5A000 50] AppleTV, [00000452C0914280][00000452C0C5C800 50] AppleTV4K, [00000452C0917540][00000452C0C42800 50] TVOS, [00000452C091C940][00000452C0C62800 50] Mac, [00000452C091C780][00000452C0C60000 50] MacEditor, [00000452C0919680][00000452C0C67800 50] MacClient, [00000452C091C240][00000452C0C6A000 50] MacServer, [00000452C091D040][00000452C0C52800 50] Linux, [00000452C091D3C0][00000452C0C6C800 50] LinuxEditor, [00000452C0916200][00000452C0C70000 50] LinuxArm64Editor, [00000452C091AD40][00000452C0C75000 50] LinuxArm64, [00000452C0919A00][00000452C0C77800 50] LinuxClient, [00000452C091D580][00000452C0C7A000 50] LinuxArm64Client, [00000452C091CE80][00000452C0C7C800 50] LinuxServer, [00000452C0918340][00000452C0C65000 50] LinuxArm64Server, [00000452C0915080][00000452C0C80000 50] Android, [00000452C0917700][00000452C0C85000 50] Android_Preview_OpenGL, [00000452C09147C0][00000452C0C87800 50] Android_Preview_Vulkan, [00000452C091B280][00000452C0C8A000 50] Android_Low, [00000452C0915780][00000452C0C8C800 50] Android_Mid, [00000452C0914D00][00000452C0C72800 50] Android_High, [00000452C0914440][00000452C0C90000 50] Android_Default, [00000452C091C5C0][00000452C0C95000 50] Android_Adreno4xx, [00000452C091BD00][00000452C0C97800 50] Android_Adreno5xx_Low, [00000452C091A800][00000452C0C9A000 50] Android_Adreno5xx, [00000452C0914980][00000452C0C9C800 50] Android_Adreno6xx, [00000452C091B0C0][00000452C0C82800 50] Android_Adreno6xx_Vulkan, [00000452C091CB00][00000452C0CA0000 50] Android_Adreno7xx, [00000452C0919BC0][00000452C0CA5000 50] Android_Adreno7xx_Vulkan, [00000452C0917E00][00000452C0CA7800 50] Android_Mali_T6xx, [00000452C0918DC0][00000452C0CAA000 50] Android_Mali_T7xx, [00000452C091B600][00000452C0CAC800 50] Android_Mali_T8xx, [00000452C091BEC0][00000452C0C92800 50] Android_Mali_G71, [00000452C091D200][00000452C0CB0000 50] Android_Mali_G72, [00000452C091DAC0][00000452C0CB5000 50] Android_Mali_G72_Vulkan, [00000452C091B980][00000452C0CB7800 50] Android_Mali_G76, [00000452C091C080][00000452C0CBA000 50] Android_Mali_G76_Vulkan, [00000452C09178C0][00000452C0CBC800 50] Android_Mali_G77, [00000452C091BB40][00000452C0CA2800 50] Android_Mali_G77_Vulkan, [00000452C091AF00][00000452C0CC0000 50] Android_Mali_G78, [00000452C0915CC0][00000452C0CC5000 50] Android_Mali_G78_Vulkan, [00000452C091C400][00000452C0CC7800 50] Android_Mali_G710, [00000452C0916E40][00000452C0CCA000 50] Android_Mali_G710_Vulkan, [00000452C091DC80][00000452C0CCC800 50] Android_Xclipse_920, [00000452C091E700][00000452C0CB2800 50] Android_Xclipse_920_Vulkan, [00000452C0917380][00000452C0CD0000 50] Android_Vulkan_SM5, [00000452C091CCC0][00000452C0CD5000 50] Android_PowerVR_G6xxx, [00000452C091B440][00000452C0CD7800 50] Android_PowerVR_GT7xxx, [00000452C091E540][00000452C0CDA000 50] Android_PowerVR_GE8xxx, [00000452C091AB80][00000452C0CDC800 50] Android_PowerVR_GM9xxx, [00000452C091D740][00000452C0CC2800 50] Android_PowerVR_GM9xxx_Vulkan, [00000452C091EFC0][00000452C0CE0000 50] Android_TegraK1, [00000452C091F6C0][00000452C0CE5000 50] Android_Unknown_Vulkan, [00000452C0CF0000][00000452C0CE7800 50] Oculus_Quest, [00000452C0CF2300][00000452C0CEA000 50] Oculus_Quest2, [00000452C0CF2140][00000452C0CEC800 50] HoloLens, 
+Metadata set : deviceprofile="WindowsEditor"
+Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android SDK directory is not set correctly.")
+Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+Turnkey Platform: Win64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="Platform_ValidHostPrerequisites")
+Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+Using QuadricMeshReduction for automatic static mesh reduction
+Using SimplygonMeshReduction for automatic skeletal mesh reduction
+Using ProxyLODMeshReduction for automatic mesh merging
+No distributed automatic mesh merging module available
+No distributed automatic mesh merging module available
+HW2 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1425767973)
+Missing cached shadermap for m_SimpleVolumetricCloud in PCD3D_SM5, Default, SM5 (DDC key hash: 9E8C7121AD03BC672317753259F8802254D8DAEF), compiling. 
+Border
+BreadcrumbButton
+Default
+Icons.Save
+Icons.Toolbar.Settings
+ListView
+SoftwareCursor_CardinalCross
+SoftwareCursor_Grab
+TableView.DarkRow
+TableView.Row
+TreeView
+Missing cached shadermap for Widget3DPassThrough_Translucent in PCD3D_SM5, Default, SM5 (DDC key hash: 5C75B1A3E99F0F0B3E1918B728E965C82193B29E), compiling. 
+Missing cached shadermap for Widget3DPassThrough_Opaque in PCD3D_SM5, Default, SM5 (DDC key hash: 84DFFB7A7707F57EB0F5C9F422781DAFE9BA2A24), compiling. 
+Missing cached shadermap for Widget3DPassThrough_Opaque_OneSided in PCD3D_SM5, Default, SM5 (DDC key hash: 5E04B371072BDF232DAB7C8AD44CE247513E5417), compiling. 
+Missing cached shadermap for Widget3DPassThrough_Masked in PCD3D_SM5, Default, SM5 (DDC key hash: 70D9C2A7CAA2C2AE89C4FB0DF2B8B16B4AA94298), compiling. 
+Missing cached shadermap for Widget3DPassThrough_Masked_OneSided in PCD3D_SM5, Default, SM5 (DDC key hash: FDB524394466AEBB8DD5438CDAB09E3B8E3C36C6), compiling. 
+Missing cached shadermap for Widget3DCameraPassThrough_Opaque_OneSided in PCD3D_SM5, Default, SM5 (DDC key hash: 2C84B09AB6D681A1040271FB180DA695917F7184), compiling. 
+Missing cached shadermap for TransformGizmoMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 04BDEC0B01B76BD9AED8EE562814824BD28E8268), compiling. 
+Missing cached shadermap for TranslucentTransformGizmoMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 306E7A57E8C2E3649F3BC16545BC70AD069D851E), compiling. 
+Missing cached shadermap for Main in PCD3D_SM5, Default, SM5 (DDC key hash: 964166733F352EE6C6A04590C3C83FD5F5802988), compiling. 
+Missing cached shadermap for Xray in PCD3D_SM5, Default, SM5 (DDC key hash: C7E063655C8F19E464A7344E086EFD62A9A409C4), compiling. 
+Missing cached shadermap for CineMat in PCD3D_SM5, Default, SM5 (DDC key hash: 5A9591D469A5E3E9ED574820F3F8AF28AA3445B2), compiling. 
+Missing cached shadermap for M_SimpleOpaque in PCD3D_SM5, Default, SM5 (DDC key hash: 7EF12D9F99F22E9490A34E070E031303F62B2E70), compiling. 
+Missing cached shadermap for M_SimpleUnlitTranslucent in PCD3D_SM5, Default, SM5 (DDC key hash: FC469345C0C1AC3CCAEEA08999EE8EDC11EAA389), compiling. 
+Source control is disabled
+Missing cached shadermap for SkySphereMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 941DD85D7E180C242FDACC491A8791FEB0ADEF4C), compiling. 
+Missing cached shadermap for FloorPlaneMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 28BDE5E80890F87B88211F82C25AE58AAE732A3A), compiling. 
+Source control is disabled
+Source control is disabled
+Missing cached shadermap for LandscapeGizmo_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 7CF6B477C94598E9F2DDEE3DC284D442C3C2E863), compiling. 
+Missing cached shadermap for LandscapeGizmoHeight_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 6D5FC23AEED0EBC064C7218C7A80EFA9EF152332), compiling. 
+Missing cached shadermap for SplineEditorMeshMat in PCD3D_SM5, Default, SM5 (DDC key hash: 705842B2260246FAD427A92FE41C974352CB72A2), compiling. 
+PokeAHoleMaterial loaded successfully
+20625 objects as part of root set at end of initial load.
+5604128 out of 0 bytes used by permanent object pool.
+CloseDisregardForGC: 0/0 objects in disregard for GC pool
+Niagara Debugger Client Initialized | Session: 83DC7CFD40A16C39DB2DFFB5382D1C9F | Instance: 823A148C41EC32667D858B8DC69B5139 (SABINE-2276).
+Using Python 3.9.7
+Missing cached shadermap for BaseColor in PCD3D_SM5, Default, SM5 (DDC key hash: 34F749074DAD479657842BAB293E438CCE8ED194), compiling. 
+Missing cached shadermap for CustomDepth in PCD3D_SM5, Default, SM5 (DDC key hash: 672A50BD3FD8C57060C4F73FCF1A47B155A0951C), compiling. 
+Missing cached shadermap for CustomStencil in PCD3D_SM5, Default, SM5 (DDC key hash: 6B4C4A2EA79F0C42A79B9A295447825F1AECF108), compiling. 
+Missing cached shadermap for FinalImage in PCD3D_SM5, Default, SM5 (DDC key hash: D18A97C3CE3334AEB7D4EB6499619D4F0C1FCB9F), compiling. 
+Missing cached shadermap for LightingModel in PCD3D_SM5, Default, SM5 (DDC key hash: C09BDB3425DE152022D8922C832AA5A0B073F5C8), compiling. 
+Missing cached shadermap for MaterialAO in PCD3D_SM5, Default, SM5 (DDC key hash: 8EF1917F1F9BBA68F5A11F2CC298DDE5829798C3), compiling. 
+Missing cached shadermap for Metallic in PCD3D_SM5, Default, SM5 (DDC key hash: B207A2004F270A75D6447A9ED12EB53B8B87DF16), compiling. 
+Missing cached shadermap for Opacity in PCD3D_SM5, Default, SM5 (DDC key hash: 4B14D028259A1EC19D4C715099665EC93F81FD26), compiling. 
+Missing cached shadermap for Roughness in PCD3D_SM5, Default, SM5 (DDC key hash: A852EB2DDFE498937F19E6FC59319E80F28970EA), compiling. 
+Missing cached shadermap for Anisotropy in PCD3D_SM5, Default, SM5 (DDC key hash: 8B7D5D1BBD4C42CC27852DC1F174B7EC6FE8D211), compiling. 
+Missing cached shadermap for SceneColor in PCD3D_SM5, Default, SM5 (DDC key hash: 5F7D54D42C5DF0A9DAA3B8AD5A1A8A1E3B99A757), compiling. 
+Missing cached shadermap for SceneDepth in PCD3D_SM5, Default, SM5 (DDC key hash: 98CB4DB929515F472E238AECCE6ECF79C06C62D9), compiling. 
+Missing cached shadermap for SeparateTranslucencyRGB in PCD3D_SM5, Default, SM5 (DDC key hash: AC7CE76C4F1F66C638DF585DF0FD7C024E33D5DF), compiling. 
+Missing cached shadermap for SeparateTranslucencyA in PCD3D_SM5, Default, SM5 (DDC key hash: 1C32BADCD1B559D942EE9F84FCA5B9EF67A61522), compiling. 
+Missing cached shadermap for Specular in PCD3D_SM5, Default, SM5 (DDC key hash: 6B02C0A4D6FCCB03BE9D7D61AFA839FBBA86FD5E), compiling. 
+Missing cached shadermap for SubsurfaceColor in PCD3D_SM5, Default, SM5 (DDC key hash: 054E1CA1AB4C88FF2B6746CBDC39122D55F3C770), compiling. 
+Missing cached shadermap for WorldNormal in PCD3D_SM5, Default, SM5 (DDC key hash: 251B9524A454833801C711C3E060E526397D31B5), compiling. 
+Missing cached shadermap for WorldTangent in PCD3D_SM5, Default, SM5 (DDC key hash: 41D150FCF89E72021D4072077F2E04EB085E10C1), compiling. 
+Missing cached shadermap for AmbientOcclusion in PCD3D_SM5, Default, SM5 (DDC key hash: DFC7C373127BD0C676FD2862F14413ACF4354DCC), compiling. 
+Missing cached shadermap for CustomDepthWorldUnits in PCD3D_SM5, Default, SM5 (DDC key hash: 3BAEDCD9CF888CFEEB505893816581DBA414966C), compiling. 
+Missing cached shadermap for SceneDepthWorldUnits in PCD3D_SM5, Default, SM5 (DDC key hash: 05E1F75514EB64050EDADAA6E0004487376D307E), compiling. 
+Missing cached shadermap for Velocity in PCD3D_SM5, Default, SM5 (DDC key hash: BDE9EC8405B7A6C4C3F4ECFE869428B31DF38501), compiling. 
+Missing cached shadermap for PreTonemapHDRColor in PCD3D_SM5, Default, SM5 (DDC key hash: 1A96211914AB9AADCF6CC248581C1068C47B56D1), compiling. 
+Missing cached shadermap for PostTonemapHDRColor in PCD3D_SM5, Default, SM5 (DDC key hash: 33A1C1160703694581FB0C2521A11D479EE28296), compiling. 
+Initializing TcpMessaging bridge
+Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+Missing cached shadermap for M_VolumeRenderSphereTracePP in PCD3D_SM5, Default, SM5 (DDC key hash: FDC6769A43A8F1DA9A4C98D139F4FCB5F5AA787B), compiling. 
+OIDN starting up
+Source control is disabled
+Source control is disabled
+Source control is disabled
+Found projects:
+UAndroidPermissionCallbackProxy::GetInstance
+No Audio Capture implementations found. Audio input will be silent.
+No Audio Capture implementations found. Audio input will be silent.
+Loaded 0 collections in 0.003107 seconds
+Scanning file cache for directory 'C:/Users/dshive/Desktop/RyterskiM_ShivelyD/HW2/Saved/Collections/' took 0.00s
+Scanning file cache for directory 'C:/Users/dshive/Desktop/RyterskiM_ShivelyD/HW2/Content/Developers/dshive/Collections/' took 0.00s
+Scanning file cache for directory 'C:/Users/dshive/Desktop/RyterskiM_ShivelyD/HW2/Content/Collections/' took 0.00s
+OculusInput pre-init called
+Missing cached shadermap for HighResScreenshot in PCD3D_SM5, Default, SM5 (DDC key hash: 5D04DD29FCCE2AFC8BA83EF6206E780D873431B9), compiling. 
+Missing cached shadermap for HighResScreenshotMask in PCD3D_SM5, Default, SM5 (DDC key hash: 87C08A95564DA3847C2B8D64ED6E022DC20A14BB), compiling. 
+Missing cached shadermap for HighResScreenshotCaptureRegion in PCD3D_SM5, Default, SM5 (DDC key hash: 6FF9584FB744FFEB6699AC0E7FF6AB4E3550E5D1), compiling. 
+Initializing Engine...
+Failed to get an OpenXR system, result is XR_ERROR_FORM_FACTOR_UNAVAILABLE. Please check that your runtime supports VR headsets.
+UGameplayTagsManager::InitializeManager -  0.000 s
+Missing cached shadermap for WireframeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 2AD24F7997E9692993CC591C6189BE2C8DC0D240), compiling. Is special engine material.
+Missing cached shadermap for LevelColorationLitMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 0F6602A74BC83DDBED0047D2B6A335B43CEF461E), compiling. Is special engine material.
+Missing cached shadermap for LevelColorationUnlitMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: AFF8CED93AB69FE55FF6127F17325DE6D9417914), compiling. Is special engine material.
+Missing cached shadermap for MAT_LevelColorationLitLightmapUV in PCD3D_SM5, Default, SM5 (DDC key hash: 67D51CCC2FA4AD15C3C653DD2A5650E920CC3E46), compiling. Is special engine material.
+Missing cached shadermap for ShadedLevelColorationLitMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: C27288884DD306FAC890B645EC80DC6CFC740698), compiling. Is special engine material.
+Missing cached shadermap for ShadedLevelColorationUnlitMateri in PCD3D_SM5, Default, SM5 (DDC key hash: E2C8EE8FD815A7444551212169221E028B8173E9), compiling. Is special engine material.
+Missing cached shadermap for VertexColorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: CD2E85D9E6DB9F998B507575CB37A750F25682BF), compiling. 
+Missing cached shadermap for VertexColorViewMode_ColorOnly in PCD3D_SM5, Default, SM5 (DDC key hash: 5998E94E82A9D11A3D873A73C706D97147737EFB), compiling. 
+Missing cached shadermap for VertexColorViewMode_AlphaAsColor in PCD3D_SM5, Default, SM5 (DDC key hash: 1FF8EDD3070CB583ECA5743D66586951909E4773), compiling. 
+Missing cached shadermap for VertexColorViewMode_RedOnly in PCD3D_SM5, Default, SM5 (DDC key hash: 8112F7874BBF294508A5FAE06824222D18DA9BD6), compiling. 
+Missing cached shadermap for VertexColorViewMode_GreenOnly in PCD3D_SM5, Default, SM5 (DDC key hash: 8FB0AEC5A084EDE130877B643CD7C7278555509D), compiling. 
+Missing cached shadermap for VertexColorViewMode_BlueOnly in PCD3D_SM5, Default, SM5 (DDC key hash: B9FB2523A2387C324376DC10F03E808724483693), compiling. 
+Missing cached shadermap for RemoveSurfaceMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 1926580DEB130CC191E3F89A5F5D30458DA4F4D2), compiling. 
+Missing cached shadermap for DebugMeshMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: F93C9353595BFC857508A6D8515CE89D88896A03), compiling. 
+Missing cached shadermap for EmissiveMeshMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: E41D8D510DE38C5FD29AB1CCF032C31F829ADE25), compiling. 
+Initializing FReadOnlyCVARCache
+Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+FPhysicsSolverBase::AsyncDt:-1.000000
+Creating AISystem for world Untitled
+Initializing Audio Device Manager...
+Loading Default Audio Settings Objects...
+No default SoundConcurrencyObject specified (or failed to load).
+Registering Engine Module Parameter Interfaces...
+Audio Device Manager Initialized
+Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+Audio Mixer Platform Settings:
+	Sample Rate:						  48000
+	Callback Buffer Frame Size Requested: 1024
+	Callback Buffer Frame Size To Use:	  1024
+	Number of buffers to queue:			  1
+	Max Channels (voices):				  0
+	Number of Async Source Workers:		  4
+AudioDevice MaxSources: 32
+Audio Spatialization Plugin: Resonance Audio is external send: 1
+Audio Reverb Plugin: Resonance Audio
+Audio Occlusion Plugin: None (built-in).
+Initializing audio mixer using platform API: 'XAudio2'
+Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+Initializing Sound Submixes...
+Creating Master Submix 'MasterSubmixDefault'
+Creating Master Submix 'MasterReverbSubmixDefault'
+FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+FAudioDevice initialized.
+Audio Device (ID: 1) registered with world 'Untitled'.
+Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+Texture streaming: Enabled
+[UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+EngineSessionManager initialized
+Metadata set : largeworldcoordinates="1"
+Starting LiveCoding
+LiveCodingConsole Arguments: UnrealEditor Win64 Development
+First instance in process group "UE_HW2_0x1a40eb11", spawning console
+Waiting for server
+Successfully initialized, removing startup thread
+
+
+Script Stack (0 frames):
+
+FPlatformStackWalk::StackWalkAndDump -  0.034 s
+=== Handled ensure: ===
+
+Ensure condition failed: CreateMutexW(0, Windows::FALSE, *MutexName) [File:D:\build\++UE5\Sync\Engine\Source\Developer\Windows\LiveCoding\Private\LiveCodingModule.cpp] [Line: 749]
+
+Stack: 
+[Callstack] 0x00007ffc23d6d440 UnrealEditor-LiveCoding.dll!UnknownFunction []
+[Callstack] 0x00007ffc23d6e0b0 UnrealEditor-LiveCoding.dll!UnknownFunction []
+[Callstack] 0x00007ffc9ec5ea4d UnrealEditor-Core.dll!UnknownFunction []
+[Callstack] 0x00007ffc9ec5d92c UnrealEditor-Core.dll!UnknownFunction []
+[Callstack] 0x00007ffc513cac06 UnrealEditor-Engine.dll!UnknownFunction []
+[Callstack] 0x00007ffc4dd981ea UnrealEditor-UnrealEd.dll!UnknownFunction []
+[Callstack] 0x00007ffc4dd97777 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[Callstack] 0x00007ffc4e6ffb0e UnrealEditor-UnrealEd.dll!UnknownFunction []
+[Callstack] 0x00007ff61279294d UnrealEditor.exe!UnknownFunction []
+[Callstack] 0x00007ffc4e6d18b3 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[Callstack] 0x00007ff6127b0cb1 UnrealEditor.exe!UnknownFunction []
+[Callstack] 0x00007ff6127b0e8a UnrealEditor.exe!UnknownFunction []
+[Callstack] 0x00007ff6127b3c4d UnrealEditor.exe!UnknownFunction []
+[Callstack] 0x00007ff6127c5564 UnrealEditor.exe!UnknownFunction []
+[Callstack] 0x00007ff6127c8736 UnrealEditor.exe!UnknownFunction []
+[Callstack] 0x00007ffcd74474b4 KERNEL32.DLL!UnknownFunction []
+[Callstack] 0x00007ffcd78226a1 ntdll.dll!UnknownFunction []
+
+               SubmitErrorReport -  0.000 s
