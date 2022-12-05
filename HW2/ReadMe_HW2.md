@@ -8,5 +8,4 @@ Pressing joystick will open the menu.
 Trigger to pick up an item
 
 Scoring: Scoring work is calculated for each independent level and is displayed upon the completion of each level.
-Level Score = (Difficulty){[(500)(Level Time)-1] + [(1000)(Health)] + [(200)(Lives Left)]}
-Time: 0-Infinite Seconds, Difficulty: 0-4
+Level Score = Time to Complete Level
